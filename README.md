@@ -1,2 +1,3 @@
 # web_dev_project
-WEBMED (Web Development Project
+WEBMED : A E-medicine Service Web Application
+(Web Development Project)
